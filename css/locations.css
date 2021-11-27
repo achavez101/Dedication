@@ -1,0 +1,53 @@
+body{
+    background: url("/images/sunset.jpeg");
+    background-size: cover;
+}
+header{
+    text-align: center;
+    font-size: 70px;
+}
+nav{
+    background-color: #fc0377;
+    text-align: center;
+    font-size: 50px;
+    padding: 25px 25px 25px 25px;
+}
+nav li{
+    list-style-type: none;
+    display: inline;
+    background-color: white;
+}
+nav a:link{
+    color: black;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+nav a:visited{
+    color: black;
+}
+nav a:hover{
+    background-color:#f7a8ce;
+}
+iframe{
+    height: 400px;
+    width: 45%;
+    border: 10px solid pink;
+    margin-bottom: 25px;
+}
+h3{
+    color: yellow;
+    display: inline;
+    padding-left: 25%; 
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+.inJam{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.subStar{
+    margin-bottom: 25px;
+}
+.denKFC{
+    margin-bottom: 25px;
+}
