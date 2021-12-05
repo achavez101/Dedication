@@ -1,4 +1,10 @@
+body{
+    background: url("/Dedication/images/sunset.jpeg");
+    background-size: cover;
+}
 header{
+    background-color: black;
+    color:#fc0377;
     font-size: 100px;
     text-align: center;
 }

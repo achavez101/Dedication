@@ -1,3 +1,7 @@
+body{
+    background: url("/Dedication/images/sunset.jpeg");
+    background-size: cover;
+}
 nav{
     background-color: #fc0377;
     text-align: center;
@@ -24,10 +28,11 @@ nav a:hover{
 /* Parent Container */
 .content_img{
     position: relative;
-    width: 600px;
+    width: 500px;
     height: 1000px;
     float: left;
-    margin-right: 10px;
+    margin-right: 15px;
+    padding: 100px;
 }
    
 /* Child Text Container */
