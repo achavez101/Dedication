@@ -1,3 +1,11 @@
+body{
+    background: url("/images/sunset.jpeg");
+    background-size: cover;
+}
+header{
+    background-color: #fc0377;
+    color: white;
+}
 nav{
     background-color: #fc0377;
     text-align: center;
