@@ -1,6 +1,8 @@
 body{
-    background: url("/images/sunset.jpeg");
-    background-size: cover;
+    /*background: url("/images/sunset.jpeg");
+    background-size: cover;*/
+    background: rgb(138,58,185);
+    background: linear-gradient(90deg, rgba(138,58,185,1) 0%, rgba(80,208,233,1) 53%, rgba(188,42,141,1) 95%);
 }
 nav{
     background-color: #fc0377;
