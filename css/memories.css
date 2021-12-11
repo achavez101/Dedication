@@ -4,6 +4,12 @@ body{
     background: rgb(138,58,185);
     background: linear-gradient(90deg, rgba(138,58,185,1) 0%, rgba(80,208,233,1) 53%, rgba(188,42,141,1) 95%);
 }
+header{
+    background-color: #fc0377;
+    color:white;
+    font-size: 50px;
+    text-align: center;
+}
 nav{
     background-color: #fc0377;
     text-align: center;
