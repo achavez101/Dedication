@@ -2,7 +2,7 @@ body{
     /*background: url("/images/sunset.jpeg");
     background-size: cover;*/
     background: rgb(185,58,81);
-    background: linear-gradient(90deg, rgba(185,58,81,1) 0%, rgba(28,154,217,1) 48%, rgba(185,58,81,1) 99%);
+    background: linear-gradient(90deg, rgb(230, 56, 88) 0%, rgb(32, 173, 244) 48%, rgb(252, 65, 99) 99%);
 }
 header{
     background-color: #fc0377;
